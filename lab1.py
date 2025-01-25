@@ -1,7 +1,6 @@
 import math
 
 def main():
-
     print("Problem 1: Arithmetic Operations")
 
     # pi variable used for area and volume
